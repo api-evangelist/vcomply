@@ -1,0 +1,72 @@
+generated: '2026-07-21'
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=vcomply
+description: >-
+  First-party npm packages published under the VComply name. These are internal
+  frontend/engineering libraries (Angular design system, rich-text editor,
+  workflow engine, permissions) published to the public npm registry by VComply
+  engineers — they are NOT API client SDKs. VComply publishes no public API and
+  therefore no client SDKs; official mobile apps exist on Google Play and the
+  Apple App Store. PyPI, Maven Central, NuGet, RubyGems, Packagist, crates.io
+  and pkg.go.dev show no VComply packages.
+packages:
+  - language: javascript
+    registry: npm
+    name: "@vcomply/editor"
+    url: https://www.npmjs.com/package/@vcomply/editor
+    install: npm install @vcomply/editor
+    official: true
+    note: Rich-text (wysiwyg) editor package used by the VComply product; internal frontend library, not an API SDK.
+  - language: javascript
+    registry: npm
+    name: "@vcomply/authorizer"
+    url: https://www.npmjs.com/package/@vcomply/authorizer
+    install: npm install @vcomply/authorizer
+    official: true
+    note: Angular library published by the vcomply npm account; internal frontend library.
+  - language: javascript
+    registry: npm
+    name: "@vcomply/cache"
+    url: https://www.npmjs.com/package/@vcomply/cache
+    install: npm install @vcomply/cache
+    official: true
+    note: Angular library published by the vcomply npm account; internal frontend library.
+  - language: javascript
+    registry: npm
+    name: "@vcomply/user-permissions"
+    url: https://www.npmjs.com/package/@vcomply/user-permissions
+    install: npm install @vcomply/user-permissions
+    official: true
+    note: Angular library published by the vcomply npm account; internal frontend library.
+  - language: javascript
+    registry: npm
+    name: "@vcomply/risk-quickview"
+    url: https://www.npmjs.com/package/@vcomply/risk-quickview
+    install: npm install @vcomply/risk-quickview
+    official: true
+    note: Angular library published by the vcomply npm account; internal frontend library.
+  - language: javascript
+    registry: npm
+    name: vcomply-design-system
+    url: https://www.npmjs.com/package/vcomply-design-system
+    install: npm install vcomply-design-system
+    official: true
+    note: Design system based on the design patterns used across VComply products; internal frontend library.
+  - language: javascript
+    registry: npm
+    name: vcomply-workflow-engine
+    url: https://www.npmjs.com/package/vcomply-workflow-engine
+    install: npm install vcomply-workflow-engine
+    official: true
+    note: Angular workflow-engine library published by VComply engineers; internal frontend library.
+apps:
+  - platform: android
+    store: Google Play
+    id: app.vcomply.mobile
+    url: https://play.google.com/store/apps/details?id=app.vcomply.mobile
+    official: true
+  - platform: ios
+    store: Apple App Store
+    id: '1615326357'
+    url: https://apps.apple.com/in/app/vcomply/id1615326357
+    official: true

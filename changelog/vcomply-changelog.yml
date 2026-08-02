@@ -1,0 +1,60 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.v-comply.com/whats-new/
+docs: https://www.v-comply.com/whats-new/
+description: >-
+  Structured capture of VComply's public "What's New" product-updates page.
+  VComply is a SaaS GRC platform with no public API, so this is a product
+  changelog, not an API changelog: entries are dated feature releases grouped
+  by month, labeled New Release / Feature Enhancement / Coming Soon / Security
+  Update. The live page is the source of truth; this records the recent window
+  as published at capture time (newest entries dated February 2025).
+versioning:
+  scheme: dated product releases (no API versioning; no public API)
+entries:
+  - date: '2025-02-14'
+    title: Meet Paula C - Your AI Assistant
+    type: New Release
+    highlights:
+      - Real-time policy summaries and Q&A within PolicyOps
+  - date: '2025-02-13'
+    title: Gan.AI integration
+    type: New Release
+    highlights:
+      - Create multilingual training videos linked directly to policies
+  - date: '2025-02-11'
+    title: AI Policy Editor enhancements
+    type: Feature Enhancement
+    highlights:
+      - Right-click tools for text rewrites, grammar checks, and translations
+  - date: '2025-02-10'
+    title: MS Word integration
+    type: Coming Soon
+    highlights:
+      - Direct editing with automatic syncing to SharePoint and OneDrive
+  - date: '2025-02-07'
+    title: Anonymous case reporting
+    type: New Release
+    highlights:
+      - Confidential incident reporting via hotline and website forms
+  - date: '2025-01-22'
+    title: CaseOps launch
+    type: New Release
+    highlights:
+      - New module for incident tracking, grievance handling, and case management with custom workflows
+  - date: '2024-12-16'
+    title: Policy version comparison
+    type: Feature Enhancement
+    highlights:
+      - Side-by-side policy review with color-coded change highlighting
+  - date: '2024-10-01'
+    title: October 2024 updates
+    type: Feature Enhancement
+    highlights:
+      - Policy templates
+      - HIPAA compliance achievement
+  - date: '2024-09-01'
+    title: Platform redesign
+    type: Feature Enhancement
+    highlights:
+      - Redesigned platform experience

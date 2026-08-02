@@ -1,0 +1,34 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for VComply's hosts.
+  VComply publishes no public API, so the only host probed beyond the marketing
+  site is app.v-comply.com (the SaaS login) and api.v-comply.com (exists but
+  answers 403 to anonymous requests). The marketing site publishes a genuine
+  llms.txt at the site root (captured in llms/vcomply-llms.txt) but no
+  /.well-known/ documents. Note: developer/docs/status/trust.v-comply.com all
+  resolve via wildcard DNS to the same app SPA shell ("Governance. Simplified."
+  + loader) and are NOT real developer-portal/status/trust surfaces.
+hosts:
+  - host: https://www.v-comply.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /llms.txt
+        status: 200
+        type: text/plain
+        file: ../llms/vcomply-llms.txt
+        note: Genuine llms.txt (dated 2025-05-21) published at the site root.
+  - host: https://api.v-comply.com
+    documents:
+      - path: /
+        status: 403
+        note: Host exists (backend for the SaaS app) but rejects anonymous requests; no public API documentation is published.

@@ -1,9 +1,27 @@
 aid: vcomply
 name: VComply
-description: 'VComply is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  VComply is a cloud-based Governance, Risk, and Compliance (GRC) platform that
+  helps organizations streamline compliance, risk, policy, audit, and incident
+  management. Its modules span ComplianceOps, RiskOps, PolicyOps, and CaseOps,
+  with AI-powered policy generation and regulatory update monitoring, serving
+  500+ compliance teams across financial services, healthcare, higher
+  education, and manufacturing. VComply publishes no public API or developer
+  program; its integration surface is packaged connectors (e.g. Microsoft 365)
+  and official mobile apps.
 url: https://raw.githubusercontent.com/api-evangelist/vcomply/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.v-comply.com/wp-content/uploads/2023/08/vcomply-graph.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +30,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Enterprise
+- GRC
+- Compliance
+- Risk Management
+- Policy Management
+- Audit
+- Incident Management
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +49,39 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.v-comply.com
+  url: https://www.v-comply.com/
+- type: Pricing
+  url: https://www.v-comply.com/pricing/
+- type: Blog
+  url: https://www.v-comply.com/blog/
+- type: Support
+  url: https://help.v-comply.com/
+- type: TermsOfService
+  url: https://www.v-comply.com/termsofservice/
+- type: PrivacyPolicy
+  url: https://www.v-comply.com/privacy/
+- type: SignUp
+  url: https://www.v-comply.com/start-free-trial/
+- type: Login
+  url: https://app.v-comply.com/
+- type: GitHubOrganization
+  url: https://github.com/vcomply
+- type: LLMsTxt
+  url: llms/vcomply-llms.txt
+- type: WellKnown
+  url: well-known/vcomply-well-known.yml
+- type: Packages
+  url: packages/vcomply-packages.yml
+- type: ChangeLog
+  url: changelog/vcomply-changelog.yml
+- type: TrustCenter
+  url: security/vcomply-trust-center.yml
+- type: Compliance
+  url: https://www.v-comply.com/security/
+- type: DomainSecurity
+  url: security/vcomply-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1

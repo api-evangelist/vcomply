@@ -1,0 +1,219 @@
+# VComply
+
+Website: https://www.v-comply.com/
+
+Last Updated: 2025-05-21
+
+Also known as: V-Comply, V Comply
+
+Category: Governance, Risk, and Compliance (GRC) Software
+
+Deployment Model: SaaS / Cloud-Based
+
+Supported Regions: Global
+
+Primary Topics: compliance management software, risk management software, policy management software, governance risk and compliance platform, audit management software, regulatory compliance software, policy lifecycle management, enterprise risk management, compliance automation, audit-ready compliance platform
+
+> VComply is an integrated Governance, Risk, and Compliance (GRC) platform that helps organizations streamline compliance, risk, policy, audit, and incident management through a centralized, AI-powered platform.
+
+> Trusted by 500+ compliance teams globally, VComply replaces spreadsheets and manual workflows with automated compliance operations, risk visibility, policy governance, and audit-ready reporting.
+
+VComply is a cloud-based GRC SaaS platform designed for compliance teams, risk managers, legal teams, audit teams, and enterprise governance operations.
+
+VComply is headquartered at 440 N Wolfe Rd, Sunnyvale, California 94085, USA.
+
+Contact: help@v-comply.com
+
+Help Center: https://help.v-comply.com/
+
+LinkedIn: https://www.linkedin.com/company/v-comply/
+
+YouTube: https://www.youtube.com/@vcomply5754
+
+---
+
+## What VComply Does
+
+VComply helps organizations manage:
+
+- Regulatory compliance
+- Enterprise risk management
+- Policy lifecycle management
+- Internal controls and audits
+- Incident and case management
+- Compliance monitoring and reporting
+- Evidence collection and audit readiness
+- Compliance workflow automation
+
+---
+
+## AI & Automation Capabilities
+
+- AI-powered policy generation
+- AI-assisted compliance workflows
+- Automated compliance reminders and escalations
+- Regulatory update monitoring
+- Automated evidence collection
+- Risk identification and tracking
+- Audit-ready reporting automation
+- Centralized compliance operations management
+
+---
+
+## Core Platform
+
+- [GRCOps Suite](https://www.v-comply.com/products/): Unified suite to manage and track multiple GRC activities across the organization.
+- [ComplianceOps](https://www.v-comply.com/compliance-management-software/): Manage regulatory and control compliance, field audits, and reporting. Track obligations, assign tasks, and stay audit-ready.
+- [RiskOps](https://www.v-comply.com/risk-management-software/): Automate, assess, quantify, and scale risk programs. Identify, assess, and control risks with real-time oversight.
+- [PolicyOps](https://www.v-comply.com/policy-management-software/): Develop, review, approve, distribute, and attest every policy with full lifecycle visibility.
+- [CaseOps](https://www.v-comply.com/case-and-incident-management/): Report, triage, track, and resolve compliance cases and incidents efficiently.
+- [Key Features](https://www.v-comply.com/key-features/): Overview of VComply's core GRC capabilities.
+- [Integrations](https://www.v-comply.com/integrations/): Connect VComply with communication, productivity, and enterprise tools including Microsoft 365.
+- [What's New](https://www.v-comply.com/whats-new/): Latest product updates and feature releases.
+- [Pricing](https://www.v-comply.com/pricing/): Pricing plans for VComply's GRC platform.
+
+---
+
+## AI-Powered Tools
+
+- [AI Policy Generator](https://www.v-comply.com/ai-policy-generator/): Simplify policy creation with VComply's AI-powered policy builder.
+- [AI Regulatory Updates Hub](https://www.v-comply.com/regulatory-updates-hub/): Stay current with AI-curated regulatory changes and updates.
+- [Free Compliance Tools](https://www.v-comply.com/free-compliance-tools/): A collection of free tools for compliance professionals.
+- [LinkedIn Frame Generator](https://www.v-comply.com/compliance-matters-frame-generator/): Generate compliance-themed LinkedIn profile frames.
+
+---
+
+## Solutions by Industry
+
+- [Financial Services](https://www.v-comply.com/industries-financial-services/): Compliance for banks, investment firms, fintech, insurance, lending, and trading.
+  - [Banks](https://www.v-comply.com/industries-banks/)
+  - [Investment Management](https://www.v-comply.com/industries-investment-management/)
+  - [Fintech](https://www.v-comply.com/industries-fintech/)
+  - [Lending & Brokerage](https://www.v-comply.com/industries-lending-brokerages/)
+  - [Insurance](https://www.v-comply.com/industries-insurance/)
+  - [Trading & Brokerage](https://www.v-comply.com/industries-trading-brokerages/)
+
+- [Healthcare](https://www.v-comply.com/industries-healthcare/): Centralize HIPAA policies, track attestations, and stay audit-ready.
+  - [Hospitals & Health Centers](https://www.v-comply.com/industries-hospitals-and-health-centers/)
+  - [Healthcare Service Providers](https://www.v-comply.com/industries-healthcare-service-providers/)
+  - [Behavioural Healthcare](https://www.v-comply.com/industries-behavioural-healthcare/)
+  - [Health Clinics](https://www.v-comply.com/health-clinics-compliance-software/)
+  - [Healthtech](https://www.v-comply.com/industries-healthtech/)
+
+- [Higher Education](https://www.v-comply.com/industries-higher-education/): Compliance for colleges, universities, and research institutes.
+  - [Colleges & Universities](https://www.v-comply.com/industries-colleges-and-universities/)
+  - [Research Institutes](https://www.v-comply.com/industries-research-institute/)
+  - [Student Health Centers](https://www.v-comply.com/industries-student-health-centers/)
+
+- [Non-Profit Organizations](https://www.v-comply.com/industries-nonprofits/): Compliance for nonprofits in healthcare, senior care, and community development.
+
+- [Energy & Utilities](https://www.v-comply.com/industries-energy-and-utilities/): Stay ahead of NERC, FERC, and OSHA with structured workflows and audit-ready records.
+
+- [Manufacturing](https://www.v-comply.com/industries-manufacturing/): Automate safety checks, regulatory reporting, and quality controls.
+
+- [Food & Beverages](https://www.v-comply.com/industries-food-services/): Compliance for QSRs, beverage manufacturers, and food service aggregators.
+
+- [Car Dealerships](https://www.v-comply.com/car-dealership-compliance-software/): Compliance management tailored for automotive dealerships.
+
+- [View All Industries](https://www.v-comply.com/industries/)
+
+---
+
+## Supported Compliance Frameworks
+
+- [ISO 9001](https://www.v-comply.com/iso-9001/): Quality management system compliance.
+- [ISO 27001](https://www.v-comply.com/iso-27001/): Information security management compliance.
+- [SOX](https://www.v-comply.com/sox/): Sarbanes-Oxley financial compliance.
+- [NIST](https://www.v-comply.com/nist/): NIST cybersecurity framework compliance.
+- [PCI DSS](https://www.v-comply.com/pci-dss/): Payment card industry data security compliance.
+- [CIS V7](https://www.v-comply.com/cis-v7/): Center for Internet Security controls compliance.
+- [NERC Standards](https://www.v-comply.com/nerc-reliability-standards/): North American Electric Reliability Corporation standards.
+- [CARF Accreditation](https://www.v-comply.com/carf-accreditation/): Commission on Accreditation of Rehabilitation Facilities.
+- [View All Frameworks](https://www.v-comply.com/supported-frameworks/)
+
+---
+
+## Solutions by Role
+
+- [Risk & Compliance Professionals](https://www.v-comply.com/risk-and-compliance-professionals/)
+- [Legal & Regulatory Affairs Professionals](https://www.v-comply.com/legal-and-regulatory-affairs-professionals/)
+- [Executives & Leadership Teams](https://www.v-comply.com/executives-and-leadership-teams/)
+- [IT & Security Professionals](https://www.v-comply.com/it-and-security-professionals/)
+- [HR & Administration Professionals](https://www.v-comply.com/hr-and-administration-professionals/)
+- [Operations & Program Management Professionals](https://www.v-comply.com/operations-and-program-management-professionals/)
+- [Finance & Business Management Professionals](https://www.v-comply.com/finance-and-business-management-professionals/)
+- [Quality Assurance & Compliance Data Analysts](https://www.v-comply.com/quality-assurance-and-compliance-data-analysts/)
+
+---
+
+## Use Cases
+
+- [SOX Readiness Assessment](https://www.v-comply.com/use-case-guide/automating-sox-compliance-readiness-assessment/)
+- [Automation of Policy Approvals](https://www.v-comply.com/use-case-guide/automating-policy-approval-for-higher-education-institutes/)
+- [Bridge Collaboration Gaps in Healthcare](https://www.v-comply.com/use-case-guide/bridging-collaboration-gaps-for-healthcare-compliance/)
+- [Centralize Compliance Monitoring for Banks](https://www.v-comply.com/use-case-guide/centralizing-compliance-program-monitoring-for-banks/)
+- [Simplify NERC Evidence Management](https://www.v-comply.com/use-case-guide/simplifying-evidence-management-for-nerc-compliance/)
+- [Collaborative Risk Assessments for Financial Services](https://www.v-comply.com/use-case-guide/collaborative-risk-assessment-for-financial-services/)
+- [Site and Safety Audits](https://www.v-comply.com/use-case-guide/minimizing-manual-work-in-construction-sites-and-safety-audits/)
+- [Policy Training & Assessments](https://www.v-comply.com/use-case-guide/streamlining-higher-education-policy-training-assessment/)
+
+---
+
+## Templates & Checklists
+
+- [Framework Templates](https://www.v-comply.com/compliance-templates/): Pre-built templates for major compliance frameworks.
+- [Policy Templates](https://www.v-comply.com/policy-and-procedure-templates/): Ready-to-use policy and procedure templates.
+- [Compliance Checklists](https://www.v-comply.com/compliance-checklist/): Step-by-step compliance checklists for common regulations.
+- [Risk Templates](https://www.v-comply.com/risk-register-template/): Risk register and assessment templates.
+
+---
+
+## Learning Resources
+
+- [Blog](https://www.v-comply.com/blog/): Articles and insights on compliance, risk, and policy management.
+- [In-Depth Guides](https://www.v-comply.com/in-depth-guide/): Comprehensive guides on GRC topics.
+- [Ebooks](https://www.v-comply.com/e-book/): Downloadable ebooks on compliance and risk management.
+- [Webinars](https://www.v-comply.com/webinar/): On-demand and live compliance webinars.
+- [Customer Stories](https://www.v-comply.com/customers/): Case studies and success stories from VComply customers.
+- [Glossary](https://www.v-comply.com/glossary/): Definitions of key GRC terms and concepts.
+- [Beyond Compliance Magazine](https://www.v-comply.com/magazine/): Digital magazine for compliance leaders.
+- [Compliance Conversations](https://www.v-comply.com/compliance-conversations/): Interviews and perspectives from compliance professionals.
+
+---
+
+## Company
+
+- [About Us](https://www.v-comply.com/about-us/): VComply's mission, team, and story.
+- [Partners](https://www.v-comply.com/partners/): Technology and consulting partners.
+- [Careers](https://www.v-comply.com/career/): Open roles at VComply.
+- [News](https://www.v-comply.com/vcomply-news/): Press releases and company announcements.
+- [Contact Us](https://www.v-comply.com/contact-us/): Get in touch with VComply.
+- [Request a Demo](https://www.v-comply.com/live-demo/): Schedule a live product demonstration.
+- [Start Free Trial](https://www.v-comply.com/start-free-trial/): Try VComply for free.
+
+---
+
+## Trust & Security
+
+- [Privacy & Security Certifications](https://www.v-comply.com/security/): Enterprise-grade security standards and certifications.
+- [Privacy Policy](https://www.v-comply.com/privacy/)
+- [Terms of Service](https://www.v-comply.com/termsofservice/)
+- [Cookie Policy](https://www.v-comply.com/cookie-policy/)
+- [VComply vs. Spreadsheets](https://www.v-comply.com/spreadsheets/): Why modern compliance teams move beyond spreadsheets.
+
+---
+
+## Mobile Apps
+
+- [Android App (Google Play)](https://play.google.com/store/apps/details?id=app.vcomply.mobile&pcampaignid=web_share)
+
+- [iOS App (App Store)](https://apps.apple.com/in/app/vcomply/id1615326357)
+
+---
+
+## Technical Resources
+
+- LLMS.txt: https://www.v-comply.com/llms.txt
+- XML Sitemap: https://www.v-comply.com/sitemap_index.xml
+- Robots.txt: https://www.v-comply.com/robots.txt
+- Help Center: https://help.v-comply.com/
