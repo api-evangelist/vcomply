@@ -40,6 +40,16 @@ tags:
 - Policy Management
 - Audit
 - Incident Management
+- Software-as-a-Service
+tags_raw:
+- Company
+- Enterprise
+- GRC
+- Compliance
+- Risk Management
+- Policy Management
+- Audit
+- Incident Management
 - SaaS
 apis: []
 maintainers:
